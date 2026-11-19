@@ -8,7 +8,7 @@ This repository serves as a daily log of my Python journey, showcasing my growth
 
 | Day | Project Name | Description | Concepts Covered |
 | :--- | :--- | :--- | :--- |
-| **08** | [Caesar Cipher](Day_08_Caesar_Cipher/main.py) | A cryptography script using modulo index wrapping. | `Functions`, `Modulo Operator`, `Lists` |
+| **08** | [Caesar Cipher](Caesar_Cipher/main.py) | A terminal encryption and decryption tool with ASCII art and loop support. | `Functions with Inputs`, `Modulo Operator`, `While Loops`, `Lists` |
 | **07** | [Hangman](Hangman/main.py) | A classic terminal word-guessing game with ASCII art. | `Lists`, `While Loops`, `Strings` |
 | **05** | [Random Password Generator](Random-Password-Generator.py) | A terminal-based strong password generator customized by user input. | `For Loops`, `Randomization`, `Lists`, `String Concatenation` |
 | **04** | [Rock Paper Scissors](rock_paper_scissors.py) | A classic terminal game against a randomized computer opponent. | `Lists`, `Randomization`, `Nested if/elif/else`, `Index Error Handling` |
