@@ -8,6 +8,7 @@ This repository serves as a daily log of my Python journey, showcasing my growth
 
 | Day | Project Name | Description | Concepts Covered |
 | :--- | :--- | :--- | :--- |
+| **10** | [Calculator](Calculator/main.py) | A terminal calculator supporting chained calculations and recursive resets. | `Functions with Outputs`, `Dictionaries`, `Recursion`, `While Loops` |
 | **09** | [Secret Auction](Secret_Auction/main.py) | A blind auction program that tracks bids and announces the highest bidder. | `Dictionaries`, `Functions`, `While Loops` |
 | **08** | [Caesar Cipher](Caesar_Cipher/main.py) | A terminal encryption and decryption tool with ASCII art and loop support. | `Functions with Inputs`, `Modulo Operator`, `While Loops`, `Lists` |
 | **07** | [Hangman](Hangman/main.py) | A classic terminal word-guessing game with ASCII art. | `Lists`, `While Loops`, `Strings` |
